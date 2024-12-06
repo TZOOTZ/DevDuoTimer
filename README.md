@@ -4,9 +4,6 @@
 Welcome to the **TZOOTZ RESEARCH - Pair Timer**, a modern tool designed to enhance collaboration in classic Pair Programming by automating the role rotation process. Designed with precision and a dash of retro aesthetic, this app keeps you and your coding partner engaged, focused, and in sync.
 
 ---
-
-![Pair Timer Interface](./1.png)
-
 ![Pair Timer Interface](1.png)
 
 ## ✨ Features
